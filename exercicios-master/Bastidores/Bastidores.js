@@ -1,3 +1,6 @@
+function teste(){
+   alert('teste');
+}
 function imprimeNaTela(valor){
     document.getElementById("e1").innerHTML=valor;
 }

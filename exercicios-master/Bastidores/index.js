@@ -1,20 +1,15 @@
-// Create express app
-var express = require("express")
-var app = express()
+const http = require('http');
+const fs  = require('fs'); 
+const hostname ='127.0.0.1';
+const port = 3000;
 
-// Server port
-var HTTP_PORT = 8000 
-// Start server
-app.listen(HTTP_PORT, () => {
-    console.log("Server running on port %PORT%".replace("%PORT%",HTTP_PORT));
-});
+fs.readFile('31.html', function(err,html){
+	if(err)
+  	  throw err;
 
-app.get("/", (req, res, next) => {
-    res.json({"message":"Ok"});
-});
-
-// Insert here other API endpoints
-// Default response for any other request
-app.use(function(req, res){
-    res.status(404);
+	http.createServer(function(request,response){
+		response.writeHeader(200,{"Content-Type":"text/html"});
+		response.write(html);
+		response.end();
+	}).listen(port);
 });
