@@ -1,0 +1,548 @@
+[{
+		"enunciado": "Inicializar variável",
+		"tarefas": [{
+				"tarefa": "Exercício: Inicializar uma variável com o valor 2"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "2"
+	},
+	{
+		"enunciado": "Inicializar variável",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 10"
+			},
+			{
+				"tarefa": "Faça um loop que incremente 2 nessa variável até ela chegar 32"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "44"
+	},
+	{
+		"enunciado": "Valores Pares",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 10"
+			},
+			{
+				"tarefa": "Faça um loop que vá de 0 a 100"
+			},
+			{
+				"tarefa": "Some apenas os valores pares e incremente na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "2510"
+	},
+	{
+		"enunciado": "Pular de 2 em 2",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "20"
+	},
+	{
+		"enunciado": "Pular de 1 em 1",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "45"
+	},
+
+	{
+		"enunciado": "Pular de 1 em 1",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 5"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "10"
+	},
+	{
+		"enunciado": "Pular de 3 em 3",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 3 em 3"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "18"
+	},
+	{
+		"enunciado": "Pular de 2 em 2",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 2"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "20"
+	},
+	{
+		"enunciado": "Pular de 1 em 1",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 1"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "45"
+	},
+	{
+		"enunciado": "Andar de Tras para frente",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 10"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 10 a 0"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "30"
+	},
+	{
+		"enunciado": "Andar de 3 em 3",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 3 em 3"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "18"
+	},
+	{
+		"enunciado": "Andar de 2 em 2",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 5"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "6"
+	},
+	{
+		"enunciado": "Andar de 2 em 2",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 15"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "56"
+	},
+	{
+		"enunciado": "Andar de 3 em 3",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 20"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 3 em 3"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "63"
+	},
+	{
+		"enunciado": "Interacao com loop",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 15 a 2"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "117"
+	},
+	{
+		"enunciado": "Interacao com loop",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 20 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "80"
+	},
+	{
+		"enunciado": "Interacao com loop",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 15"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "56"
+	},
+	{
+		"enunciado": "Interacao com loop",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 25"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "156"
+	},
+	{
+		"enunciado": "Interacao com loop e if",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 21"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Faça algo para não somar, se o valor do Index for 15"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "110"
+	},
+	{
+		"enunciado": "Interacao com loop e if",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 20"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Faça algo para não somar, se o valor do Index for 10"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "180"
+	},
+	{
+		"enunciado": "Interacao com loop e if",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Faça algo para não somar, se o valor do Index for 8"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "37"
+	},
+	{
+		"enunciado": "Interacao com loop e if de comparação de valores",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 20"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Faça algo para não somar, se o valor do Index for MULTIPLO DE 5"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "30"
+	},
+
+	{
+		"enunciado": "Interacao com loop e if de comparação de valores",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 30"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 5 em 5"
+			},
+			{
+				"tarefa": "Some o valor do index na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "2510"
+	},
+	{
+		"enunciado": "Interacao com loop e IF ELSE",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 20"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Some o valor do index na variável, se os valores forem menores que 10. Se não, some mais 2"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "210"
+	},
+	{
+		"enunciado": "Interacao com loop e IF",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 2 em 2"
+			},
+			{
+				"tarefa": "Some o valor do index na variável, exceto se ele for multiplo de 2"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "20"
+	},
+	{
+		"enunciado": "Interacao com loop e IF",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 20"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 5 em 5"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "50"
+	},
+	{
+		"enunciado": "Interacao com loop e IF",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 2"
+			},
+			{
+				"tarefa": "Faça um loop for que vá de 0 a 10"
+			},
+			{
+				"tarefa": "Faça esse loop pular de 1 em 1"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "44"
+	},
+	{
+		"enunciado": "Interacao com Vetores",
+		"tarefas": [{
+				"tarefa": "Inicalize uma variavel com 0"
+			},
+			{
+				"tarefa": "Crie um vetor com 5 posições"
+			},
+			{
+				"tarefa": "Faça um loop que some o valor de cada posição e incremente na variável"
+			},
+			{
+				"tarefa": "Imprima o resultado na Tela"
+			}
+		],
+		"valorcorreto": "15"
+	}
+]

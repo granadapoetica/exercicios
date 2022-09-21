@@ -1,0 +1,21 @@
+	body 
+	{
+	  padding-top: 70px;
+	  padding-bottom: 20px;
+	}		
+	.mensagens
+	{
+		height: 200px;
+		overflow-y:scroll; 
+	}	
+	.box {
+		display: flex;
+		align-items: flex-end;
+		justify-content: flex-end;		
+	}
+	.box2 {
+		padding-top: 5px;	
+		padding-bottom: 5px;	
+	}
+	  
+	
